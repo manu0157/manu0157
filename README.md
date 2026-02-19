@@ -17,7 +17,7 @@ Passionate about building scalable and efficient applications, writing clean and
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
 ### 💻 Programming Languages
 Java • C# • JavaScript • TypeScript • Python
@@ -33,20 +33,15 @@ SQL Server • MySQL • PostgreSQL
 
 ---
 
-## 📂 Featured Projects
-
-- 🔹 Project Name – Short description of what it does.
-- 🔹 Project Name – Short description of what it does.
-- 🔹 Project Name – Short description of what it does.
+## 🌎 Languages | Speak
+🇵🇪 Spanish
+🇺🇸 English
 
 ---
 
-## 📫 Contact
+## 🎭 Pasatiempos no tecnológicos
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: your.email@email.com
 
----
 
 ⭐ Always learning. Always building. 🚀
 
