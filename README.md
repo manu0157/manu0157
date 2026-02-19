@@ -39,7 +39,13 @@ SQL Server • MySQL • PostgreSQL
 
 ---
 
-## 🎭 Pasatiempos no tecnológicos
+## 🎭 Non-Tech Hobbies
+🎮 Playing PlayStation  
+📺 Watching football  
+⚽ Playing football  
+🏋️ Going to the gym  
+🎬 Watching Netflix  
+🏃 Running 
 
 
 
